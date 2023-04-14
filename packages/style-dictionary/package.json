@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/nxkit/nxkit",
   "publishConfig": {
-    "access": "public"
+    "access": "restricted"
   },
   "dependencies": {
     "@phenomnomnominal/tsquery": "^5.0.0",
